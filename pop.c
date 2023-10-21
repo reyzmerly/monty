@@ -1,9 +1,9 @@
 #include "monty.h"
 /**
- * f_pop - prints the top
- * @head: stack head
- * @counter: line_number
- * Return: no return
+ * f_pop - Print The TOp
+ * @head: STACK AT head
+ * @counter: COUNT Line_number
+ * Return: MAKE No return
 */
 void f_pop(stack_t **head, unsigned int counter)
 {

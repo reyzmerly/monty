@@ -1,9 +1,9 @@
 #include "monty.h"
 /**
- * f_mul - multiplies the top two elements of the stack.
- * @head: stack head
- * @counter: line_number
- * Return: no return
+ * f_mul - Multipl The topTWO Elements OF The stack.
+ * @head: STackS Head
+ * @counter: Line_number
+ * Return: NO return
 */
 void f_mul(stack_t **head, unsigned int counter)
 {
